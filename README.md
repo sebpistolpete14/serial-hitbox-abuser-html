@@ -1,4 +1,3 @@
 # serial-hitbox-abuser-html
-html5 port of serial hitbox abuser by prototype posting. ported by me
-
-you can add this to any site you have BUT ONLY IF you give credit.
+this version doesnt have all files
+see https://github.com/pivotanimationsforyou7-ship-it/serial-hitbox-abuser-html
